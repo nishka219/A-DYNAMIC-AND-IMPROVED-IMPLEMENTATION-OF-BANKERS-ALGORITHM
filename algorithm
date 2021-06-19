@@ -1,1 +1,14 @@
+1. FOR Process (i)
+WHERE i=0 to n-1
 
+CHECK Need (i)
+2. IF Need [i][j]<= Available[i]
+THEN
+a. Available[i] = Available[i] – Need [i][j];
+b. execute [i];
+c. Available = Available + Allocation;
+d. process execute
+e. next process starts
+3. ELSE insert need into stack;
+4. sort the stack;
+5. End.
