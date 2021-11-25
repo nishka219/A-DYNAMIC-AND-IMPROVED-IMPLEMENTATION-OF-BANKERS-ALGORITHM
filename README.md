@@ -1,1 +1,1 @@
-# A-DYNAMIC-AND-IMPROVED-IMPLEMENTATION-OF-BANKERS-ALGORITHM
+Improved implemenation of Banker's algorithm
